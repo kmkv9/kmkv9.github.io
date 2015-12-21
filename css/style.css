@@ -1,4 +1,4 @@
-body {
+﻿body {
   width: 100%;
 }
 body:before,
@@ -124,7 +124,7 @@ body,
 }
 body {
   background: #f9f9f9;
-  font: 14px "Ubuntu", "Microsoft YaHei", Arial, sans-serif;
+  font: 14px "Ubuntu", "メイリオ", Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 .outer {
