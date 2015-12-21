@@ -1,4 +1,4 @@
-﻿body {
+body {
   width: 100%;
 }
 body:before,
@@ -124,7 +124,7 @@ body,
 }
 body {
   background: #f9f9f9;
-  font: 14px "Ubuntu", "メイリオ", Arial, sans-serif;
+  font: 14px "Ubuntu", "メイリオ", Meiryo, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 .outer {
@@ -292,11 +292,11 @@ body {
   overflow: hidden;
 }
 #header-title {
-  height: 20px;
+  height: 35px;
   position: absolute;
   top: 80%;
   left: 0;
-  margin-top: -10px;
+  margin-top: -17.5px;
 }
 #logo,
 #subtitle {
@@ -306,8 +306,8 @@ body {
   padding-left: 10px;
 }
 #logo {
-  font-size: 20px;
-  line-height: 20px;
+  font-size: 35px;
+  line-height: 35px;
   letter-spacing: 2px;
 }
 #logo:hover {
@@ -520,7 +520,7 @@ a.article-title:hover {
 }
 .article-entry blockquote {
   overflow: auto;
-  font-family: "Ubuntu", "Microsoft YaHei", Arial, sans-serif;
+  font-family: "Ubuntu", "メイリオ", Meiryo, Arial, sans-serif;
   border: dashed 1px #eee;
   background-color: #f8f8f8;
   border-color: #e0e0e0;
@@ -533,7 +533,7 @@ a.article-title:hover {
 .article-entry blockquote footer {
   font-size: 14px;
   margin: 2em 0;
-  font-family: "Ubuntu", "Microsoft YaHei", Arial, sans-serif;
+  font-family: "Ubuntu", "メイリオ", Meiryo, Arial, sans-serif;
 }
 .article-entry blockquote footer cite:before {
   content: "—";
@@ -737,7 +737,7 @@ a.article-title:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  font: 14px "Ubuntu", "Microsoft YaHei", Arial, sans-serif;
+  font: 14px "Ubuntu", "メイリオ", Meiryo, Arial, sans-serif;
   padding: 0 15px;
   color: #555;
   outline: none;
@@ -1072,7 +1072,7 @@ a.article-title:hover {
 .article-entry .gist .gist-file .gist-meta {
   background: #2d2d2d;
   color: #999;
-  font: 0.85em "Ubuntu", "Microsoft YaHei", Arial, sans-serif;
+  font: 0.85em "Ubuntu", "メイリオ", Meiryo, Arial, sans-serif;
   text-shadow: 0 0;
   padding: 0;
   margin-top: 1em;
